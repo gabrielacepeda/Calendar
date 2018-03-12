@@ -15,7 +15,7 @@ For this prohect, I used HTML, CSS, JavaScript, Node.js, Express and MongoDB, I 
 I'm currently working on the add and delete event buttons functionality. It will not input the event in the corresponding date.
 
 ## Lessons Learned:
-Relying on back-end applications such as Node.js, Express and MongoDB, to make an app functional was new to me.
+Relying on back-end frameworks such as Node.js, Express and MongoDB, to make an app functional was new to me.
 
 ## Installation
 
