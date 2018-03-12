@@ -1,5 +1,5 @@
 # Calendar app
-
+App that allows you to add and delete events from your monthly calendar.
 
 ![calendar preview](https://github.com/gabrielacepeda/Calendar/blob/master/calendar-fullstack/calendar.png)
 
